@@ -1,0 +1,20 @@
+# Build Folders
+bin/
+obj/
+
+# Rider IDE files
+.idea/
+*.sln.iml
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+
+# VS Code
+.vscode/
+
+# Temporary files
+*.log
+*.tmp
+*.temp
