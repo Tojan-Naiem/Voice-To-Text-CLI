@@ -10,6 +10,7 @@ obj/
 *.user
 *.userosscache
 *.suo
+*.json
 
 # VS Code
 .vscode/
