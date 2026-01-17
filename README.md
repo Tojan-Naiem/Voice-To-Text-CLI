@@ -96,7 +96,7 @@ This project uses the LemonFox AI Audio Transcription API:
 
 ## License
 
-[Add your license information here]
+All rights reserved. This project is for personal use only.
 
 ## Troubleshooting
 
